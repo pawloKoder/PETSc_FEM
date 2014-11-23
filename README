@@ -1,0 +1,4 @@
+Finite Elements Method simulation using PETSc software.
+
+Thanks to Jed Brown for sharing his code. Especially such as FindPETSc.cmake and many other.
+
